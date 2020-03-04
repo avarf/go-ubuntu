@@ -1,3 +1,4 @@
+#!/bin/bash -eux
 
 ./get-go.sh
 
